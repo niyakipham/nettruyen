@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Nettruyen
+Comment= 'Nettruyen doc truyen online'
+Exec=/usr/share/licenses/nettruyen
+Icon=/usr/share/pixmaps/nettruyen.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Internet;WebBrowser; 
