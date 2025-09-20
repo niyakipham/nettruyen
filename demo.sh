@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# scrape.sh - Thu thập name, img, category, status từ danh sách URL trong data.txt
-# Phụ thuộc: curl + (pup hoặc htmlq)
+
 
 set -euo pipefail
 IFS=$'\n\t'
